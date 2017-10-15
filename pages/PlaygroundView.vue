@@ -10,7 +10,6 @@
       h2
         font-size 24px
         font-weight 400
-
       p
         font-size 16px
         line-height 2em
